@@ -2,7 +2,7 @@
 gitでproxyを使う際のシェルスクリプトです。
 
 ### 使い方
-$ git cloen https://github.com/Kadoshita/gitproxyscript.git
+$ git clone https://github.com/Kadoshita/gitproxyscript.git
 
 $ cd gitproxyscript
 
